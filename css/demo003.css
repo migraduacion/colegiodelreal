@@ -967,6 +967,7 @@ box-shadow: 10px 25px 25px rgba(0,0,0,0.5);
          0 0 2.5em 2em var(--glow-spread-color),
          inset 0 0 .5em .25em var(--glow-color);
  }
+
 .btnComoLlegar{
 text-decoration: none;
   color:#FFF;
@@ -1001,6 +1002,7 @@ text-decoration: none;
 }
 
 .btnComoLlegar::after {
+  text-decoration: none;
   pointer-events: none;
   content: "";
   position: absolute;
@@ -1014,6 +1016,7 @@ text-decoration: none;
   transform: perspective(1.5em) rotateX(35deg) scale(1, .6);
  }
  .btnComoLlegar:hover {
+  text-decoration: none;
   color: var(--btn-color);
   background-color: var(--glow-color);
   box-shadow: 0 0 1em .25em var(--glow-color),
@@ -1855,6 +1858,7 @@ text-decoration: none;
 }
 
 .btnComoLlegar::after {
+  text-decoration: none;
   pointer-events: none;
   content: "";
   position: absolute;
@@ -1868,6 +1872,7 @@ text-decoration: none;
   transform: perspective(1.5em) rotateX(35deg) scale(1, .6);
  }
  .btnComoLlegar:hover {
+  text-decoration: none;
   color: var(--btn-color);
   background-color: var(--glow-color);
   box-shadow: 0 0 1em .25em var(--glow-color),

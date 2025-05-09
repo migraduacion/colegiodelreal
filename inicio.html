@@ -98,9 +98,7 @@
     <link rel="shortcut icon" href="../img/CODIGO LOGOTIPO.png"/>
 </head>
     <script>
-    function PlayAudio(){
-        document.getElementById("musica1").play();
-    }
+      
 </script>
 
 <body translate="no"  style="background-color:#D4AF37; " >
@@ -149,7 +147,7 @@
 
                 </div>  
 
-                <audio id="musica1 " volume="80" loop> 
+                <audio id="musica1" volume="80" loop> 
                 <source src="musica/musica.mp3" type="audio/mpeg">
                 </audio>
 
@@ -272,8 +270,10 @@
         <div class="text-center "> 
             <img class="text-center col-5 col-md-3 mt-2 mb-5" src="img/ornamenta3.png" > 
         </div>
+
         <div class="container col-10 col-md-6 mt-2 vestimenta ">  
             <div class="row justify-content-center"> 
+
                 <div class="col-6 justify-content-center">
                     <img class="col-md-8 mt-4 ml-md-5 mujeres2" src="img/vestido2.png" > 
                     <h5 class='mujeres col-12 col-lg-12 mt-3 text-center text-white' >MUJERES</h5> 
@@ -462,7 +462,7 @@
         <textarea class="controls" type="text"  style="widht: 100%; height: 100px" name="Mensaje" id="mensaje" placeholder="" required></textarea>
 
         <div class="row justify-content-center" style="margin:0 auto;">
-            <button type="submit" class="btnForm btn-dark col-8 mb-5 mt-3 text-center" id="botonForm" onclick="bloquear();"><i class="fas fa-envelope mr-2"></i> ENVIAR</button> 
+            <button type="submit" class="btnForm  col-8 mb-5 mt-3 text-center" id="botonForm" onclick="bloquear();"><i class="fas fa-envelope mr-2"></i> ENVIAR</button> 
         </div>
         <div class="row justify-content-center">
         <div id="loading" class="spinner-border ml-2" role="status" style="display: none; margin-top: -40px; color:#6F7163">
