@@ -454,6 +454,8 @@
         <h2 class="formulario col-12 col-lg-12 mt-4 text-left" style="color:#fff;  font-family: 'Cormorant Garamond', serif; letter-spacing: 1px;">De los boletos asignados ¿Cuántos vas a utilizar?</h2>
         <select name="Boletos a utilizar" class="custom-select2 col-12" id="boletos" style="color: #1b1a1f; font-size: 20px; height: 45px;">
                 <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
           
                 
         </select>
@@ -652,7 +654,7 @@
  
     document.getElementById("respuestaEnviada").style.display = "none";
          let comprobar = "1";
-        let scriptURL = '';
+        let scriptURL = 'https://script.google.com/macros/s/AKfycbwgI1cNtTdOdmjanKbTR0QUCjp9aZ7qZxC86sWFk3heI6W3hdt3RgiZ2d0vABR_X6BHyw/exec';
         let form = document.forms['submit-form'];
  
         form.addEventListener('submit', e => {

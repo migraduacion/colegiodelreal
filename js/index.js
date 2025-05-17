@@ -683,6 +683,95 @@ function sinNombre() {
     window.open("inicio.html", "_self");        
 }
 
+////////////////////////////////////////
+function SofiaMenaGonzalezSaraviaConfirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1nuYOonfHkxLvEiUFbY5pWZgNsZchsP9VzYYA3_qfSVg/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia2Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1K3ctU2WIX7ELLPEeM6vsVdaYL_kGFoz7q5CxJBO2aRU/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia3Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1roZT4x4sApT6KC4dPZcV44cK8lt2eWcXtCfZJcR2Mm0/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia4Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1pPZ2HyRWUx-07qNfXuCOqhF6xT3RQNrrjZUoorDStVI/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia5Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/12POmCCN8bZyi8ZBwDqlklO3XqG2vKEKMfuMuT5doqrE/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia6Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1Tg1dFWwljsLwzn-w2vLiDeDe9v_skIsGjisZHbhMGYA/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia7Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1eDG8ObvV3YcbzlrUwRKnii7IdRbB76Tta0bpSUfRXoA/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia8Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1JH_bV3ekqgx3-TL0031PW2dzSstLRNOc8OkafXC6RXA/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia9Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1I2p8e2CuWeUQCxrVzamMTKZf8QUqOXDRD0nsxZOn1uw/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia10Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1BL5v17fdmlVA787cyUiLPDkEchPG9OwzYscjKqbJ-Q0/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia11Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1f_1KjgXsO2-zQ26uQuk-I69egGGDHkq8ayZgAECyMrM/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia12Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1vMFNqbmPHs_a28yGGWyXMje_5Zh_f-y4jRoORj8JFBE/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia13Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1ve6yqcAHIbUu9OQTHPsL4trafuR0Je9JuvvXYhq9bOQ/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia14Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1-AMPtdd7L03kOEHGSAxB13uqyARvZH1A1HPBHZhTxzw/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia15Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1O0X22g3jP9a3uBV2G3bNGT1rDetuaCFfejiEQUMhqvg/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia16Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1EbGzPQZOhu0vwbGCHz192DRtgOO5X_PmaHtMT-WQ4dw/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia17Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1Pnhc3zgxMAUNIDC0vsn8MoRjVR08LSTqNL0ZyiJNaIM/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia18Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1cZoeMWJ6SheH-NqqGbzo3X06xZ17a9yy5jjUYBMxaFY/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia19Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/13ggD0EqVP3CDWAML30IISMt1XTO8kQ7vjd-aJOHn4Ns/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia20Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1amVNWS6sAEaoeQ7k7YWrI9Yh-5xiXt9ZFsV4xjKtumg/edit?usp=drive_link", "_self");        
+}
+
+function SofiaMenaGonzalezSaravia21Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1oWBYKAuFH8BQGjq2uqpYgUBQA9jyeUPMA8I1j7nkH-E/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia22Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1-htMVPLlWBzRSBFPK1JbbhwUPRl_COIqrZB6-p488dI/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia23Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1wLNWx3z4GLC7C2OmqI2-Rba8YY-h70MF6QZXG_G9Sfw/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia24Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1MBNy-8u2La7dbNvVKiFsm3XCtIIMsP8-xI9pCTTsLUY/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia25Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1CXcjlNGuTvETEtZhKpSA05bPGGBVoDf1fJ1Z0AFBMDQ/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia26Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1XhGajuRF7sXZ0_M9yYNwvWNk4R8JnBkvEP1feW89zXw/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia27Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1_2FkdQs8f1nj5Av-9qbC2PJ4n5xZCoNwhviCv-ZLKhA/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia28Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1-Z-RTpt1uro2GREBkRC6MCByWGB72k33dM9Izt1kBJI/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia29Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1mYCNCreDOhVAxB8BvXoC1CynLZQvat1GCp9DMrsDCx8/edit?usp=drive_link", "_self");        
+}
 
 
 
