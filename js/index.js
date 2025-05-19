@@ -573,8 +573,8 @@ function VictoriaVazquezCalzada() {
 function JorgeAntonioAlvaradoGomez() {
     window.open("pases/JorgeAntonioAlvaradoGomez.html", "_self");        
 }
-function SerranoMartinez() {
-    window.open("pases/SerranoMartinez.html", "_self");        
+function AnaPaolaUrrutiaSoto() {
+    window.open("pases/AnaPaolaUrrutiaSoto.html", "_self");        
 }
 function SaenzHernandez() {
      window.open("pases/SaenzHernandez.html", "_self");          
@@ -772,7 +772,9 @@ function SofiaMenaGonzalezSaravia28Confirmaciones() {
 function SofiaMenaGonzalezSaravia29Confirmaciones() {
     window.open("https://docs.google.com/spreadsheets/d/1mYCNCreDOhVAxB8BvXoC1CynLZQvat1GCp9DMrsDCx8/edit?usp=drive_link", "_self");        
 }
-
+function SofiaMenaGonzalezSaravia30Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1Y-NNI2Qcl7vUw6ZcTknDhtilJywdIVs-YNGKVdQRfWA/edit?usp=drive_link", "_self");        
+}
 
 
  function copiarCarlosLiborioGarcia(){
@@ -1199,7 +1201,7 @@ function copiarJonathanPineda(){
   destino.focus();
   document.execCommand('paste');
 }
- function copiarSerranoMartinez(){
+ function copiarAnaPaolaUrrutiaSoto(){
   var origen = document.getElementById('target31');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
