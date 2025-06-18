@@ -679,6 +679,10 @@ function VargasTapia() {
     window.open("pases/VargasTapia.html", "_self");        
 }
 
+function Maestros() {
+    window.open("pases/Maestros.html", "_self");        
+}
+
 function sinNombre() {
     window.open("inicio.html", "_self");        
 }
@@ -1216,7 +1220,7 @@ function copiarJonathanPineda(){
   document.execCommand('paste');
 }
 
- function copiarSaenzHernandez(){
+ function copiarMaestros(){
   var origen = document.getElementById('target32');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
