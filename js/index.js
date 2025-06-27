@@ -683,6 +683,10 @@ function Maestros() {
     window.open("pases/Maestros.html", "_self");        
 }
 
+function FridaSophiaGarciaAlvarez() {
+    window.open("pases/FridaSophiaGarciaAlvarez.html", "_self");        
+}
+
 function sinNombre() {
     window.open("inicio.html", "_self");        
 }
@@ -778,6 +782,9 @@ function SofiaMenaGonzalezSaravia29Confirmaciones() {
 }
 function SofiaMenaGonzalezSaravia30Confirmaciones() {
     window.open("https://docs.google.com/spreadsheets/d/1Y-NNI2Qcl7vUw6ZcTknDhtilJywdIVs-YNGKVdQRfWA/edit?usp=drive_link", "_self");        
+}
+function SofiaMenaGonzalezSaravia31Confirmaciones() {
+    window.open("https://docs.google.com/spreadsheets/d/1o-Okd2CRZT0m4LohrkupB1N4m_WVLCw5xW3Kr8bWXxY/edit?usp=drive_link", "_self");        
 }
 
 
@@ -1234,7 +1241,7 @@ function copiarJonathanPineda(){
   destino.focus();
   document.execCommand('paste');
 }
-function copiarZulmaDiaz(){
+function copiarFridaSophiaGarciaAlvarez(){
   var origen = document.getElementById('target33');
   var destino = document.getElementById('target10');
   var copyFrom = document.createElement("textarea");
